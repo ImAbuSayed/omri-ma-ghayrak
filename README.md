@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Omri Ma Ghayrak |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/omri-ma-ghayrak/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور عيني في ليالي الشوق.. يا حبيبي..
+> أنت روحي وأنت قلبي اللي ينبض فوق
+> تعال في حضني خليني أحس بالنار
+> قلبي داب في هواك وما في أي أعذار.. نار..
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
