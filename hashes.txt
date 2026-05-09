@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Omri Ma Ghayrak
+
+This log tracks the cryptographic history and versioning for the song **Omri Ma Ghayrak** (omri-ma-ghayrak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:22:07.175504 | `v1` | `ac7a51993fe1a5b195cfc743177c89206010ddb37076ccb253e1643f20970b6a` | `7bd2d506800cf9e92a25ef1627baf65413eed55b7da45adb53d3956628112ec7` | `2026-05-09_omri-ma-ghayrak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
